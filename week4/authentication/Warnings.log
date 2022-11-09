@@ -1,0 +1,104 @@
+2022-11-09 14:47:55,755 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 14:47:55,790 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 14:48:35,474 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 14:48:35,492 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 14:48:35,494 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 14:51:28,652 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 14:51:28,670 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 14:51:28,672 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 14:51:28,673 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 14:51:28,700 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 14:51:28,702 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 14:51:28,712 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 14:51:28,718 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 14:51:28,722 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:33:45,007 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:33:45,024 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:33:45,026 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:33:45,027 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:33:45,029 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:33:45,071 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:33:45,073 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:33:45,128 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:33:45,133 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:33:45,143 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:38:26,718 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:38:26,752 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:38:26,764 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:38:26,766 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:38:26,767 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:38:26,780 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:38:26,827 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:38:26,830 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:38:26,834 DEBUG   authentication.server.repository.UsersRepository - 810
+2022-11-09 15:38:26,856 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:38:26,856 DEBUG   authentication.server.repository.UsersRepository - 810
+2022-11-09 15:38:26,871 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:38:26,872 DEBUG   authentication.server.repository.UsersRepository - 810
+2022-11-09 15:38:26,875 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:39:32,167 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:39:32,176 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:39:32,178 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:39:32,179 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:39:32,182 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:39:32,183 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:39:32,185 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:39:32,245 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:39:32,268 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:39:32,276 DEBUG   authentication.server.repository.UsersRepository - 263
+2022-11-09 15:39:32,298 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:39:32,304 DEBUG   authentication.server.repository.UsersRepository - 263
+2022-11-09 15:39:32,317 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:39:32,319 DEBUG   authentication.server.repository.UsersRepository - 263
+2022-11-09 15:39:32,326 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:40:14,615 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:40:14,640 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:40:14,642 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:40:14,644 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:40:14,646 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:40:14,647 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:40:14,648 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:40:14,648 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:40:14,952 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:40:14,953 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:40:14,963 DEBUG   authentication.server.repository.UsersRepository - 356
+2022-11-09 15:40:14,970 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:40:14,970 DEBUG   authentication.server.repository.UsersRepository - 356
+2022-11-09 15:40:14,972 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:40:14,972 DEBUG   authentication.server.repository.UsersRepository - 356
+2022-11-09 15:40:14,974 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:41:44,379 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:41:44,393 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:41:44,394 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:41:44,397 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:41:44,398 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:41:44,402 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:41:44,404 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:41:44,409 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:41:44,412 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:41:44,633 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:41:44,638 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:41:44,664 DEBUG   authentication.server.repository.UsersRepository - 941
+2022-11-09 15:44:51,237 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:44:51,238 DEBUG   authentication.server.repository.UsersRepository - 941
+2022-11-09 15:44:51,241 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:44:51,241 DEBUG   authentication.server.repository.UsersRepository - 941
+2022-11-09 15:44:51,244 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:53:30,032 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:53:30,041 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:53:30,043 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:53:30,052 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:53:30,056 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:53:30,059 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:53:30,060 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:53:30,062 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:53:30,064 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:53:30,065 INFO    authentication.server.repository.UsersRepository - this is a info print int Level:400
+2022-11-09 15:53:30,301 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:53:30,332 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:53:30,376 DEBUG   authentication.server.repository.UsersRepository - 922
+2022-11-09 15:53:30,392 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:53:30,394 DEBUG   authentication.server.repository.UsersRepository - 922
+2022-11-09 15:53:30,402 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600
+2022-11-09 15:53:30,408 DEBUG   authentication.server.repository.UsersRepository - 922
+2022-11-09 15:53:30,414 TRACE   authentication.server.repository.UsersRepository - this is a trace print int Level:600

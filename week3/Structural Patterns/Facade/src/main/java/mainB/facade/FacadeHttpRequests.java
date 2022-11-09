@@ -26,6 +26,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 public class FacadeHttpRequests {
 
     public int getPage(String pageNum) throws IOException {
+
         CloseableHttpClient httpClient = HttpClients.createDefault();
         JSONParser parser = new JSONParser();
         JSONObject json = null;
@@ -38,7 +39,6 @@ public class FacadeHttpRequests {
 
             try {
                 HttpEntity entity = response.getEntity();
-
 
                 if (entity != null) {
                     String result = EntityUtils.toString(entity);
@@ -94,10 +94,8 @@ public class FacadeHttpRequests {
         StringEntity stringEntity = new StringEntity(json);
         httpPut.setEntity(stringEntity);
 
-
         AtomicInteger statusCode = new AtomicInteger();
 
-        // Create a custom response handler
         ResponseHandler<String> responseHandler = response -> {
             int status = response.getStatusLine().getStatusCode();
             statusCode.set(status);

@@ -16,11 +16,11 @@ public class Main {
 
             client.getPage(pagNumber);
 
-            client.postPage();
-
-            client.putUser();
-
-            client.deleteUser();
+//            client.postPage();
+//
+//            client.putUser();
+//
+//            client.deleteUser();
 
 
         } catch (IOException e) {

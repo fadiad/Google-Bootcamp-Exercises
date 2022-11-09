@@ -1,0 +1,6 @@
+2022-11-09 14:05:40,233 FATAL   mainB.Main - this is a fatal print int Level:100
+2022-11-09 14:05:40,240 ERROR   mainB.Main - this is a error print int Level:200
+2022-11-09 14:05:40,241 WARN    mainB.Main - this is a warn print int Level:300
+2022-11-09 14:05:40,241 INFO    mainB.Main - this is a info print int Level:400
+2022-11-09 14:05:40,241 DEBUG   mainB.Main - this is a debug print int Level:500
+2022-11-09 14:05:40,242 TRACE   mainB.Main - this is a trace print int Level:600
