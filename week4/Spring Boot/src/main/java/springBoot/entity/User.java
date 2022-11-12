@@ -1,32 +1,20 @@
 package springBoot.entity;
 
-import java.time.LocalDate;
 import java.util.Objects;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class User {
     private int id;
-    private int age;
+    private String email;
+    private String password;
 
-    public User(){};
-
-
-
-    public User(int id, int age) {
-        this.id = id;
-        this.age = age;
+    public User() {
     }
 
-    public static User generatRandonUser() {
-        return new User(ThreadLocalRandom.current().nextInt(), ThreadLocalRandom.current().nextInt());
-    }
-
-    @Override
-    public String toString() {
-        return "User{" +
-                "id=" + id +
-                ", age=" + age +
-                '}';
+    public User(String email, String password) {
+        this.id = ThreadLocalRandom.current().nextInt();
+        this.email = email;
+        this.password = password;
     }
 
     public int getId() {
@@ -37,12 +25,20 @@ public class User {
         this.id = id;
     }
 
-    public int getAge() {
-        return age;
+    public String getEmail() {
+        return email;
     }
 
-    public void setAge(int age) {
-        this.age = age;
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String newPassword) {
+        this.password = newPassword;
     }
 
     @Override
@@ -50,11 +46,20 @@ public class User {
         if (this == o) return true;
         if (!(o instanceof User)) return false;
         User user = (User) o;
-        return getId() == user.getId() && getAge() == user.getAge();
+        return getId() == user.getId() && getEmail().equals(user.getEmail()) && getPassword().equals(user.getPassword());
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(getId(), getAge());
+        return Objects.hash(getId(), getEmail(), getPassword());
+    }
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "id=" + id +
+                ", email='" + email + '\'' +
+                ", password='" + password + '\'' +
+                '}';
     }
 }
